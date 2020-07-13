@@ -1,0 +1,15 @@
+{
+  "name": "hello-sqlite",
+  "version": "0.0.1",
+  "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "engines": {
+    "node": "12.x.x"
+  }
+}
