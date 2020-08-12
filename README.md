@@ -1,1 +1,1 @@
-# uptime
+# uptime buat bot
